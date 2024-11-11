@@ -39,5 +39,6 @@ Check out my repositories to see more of my work!
 ### 🤝 Let's Connect
 - **LinkedIn:** [my LinkedIn Profile](https://www.linkedin.com/in/katib-ansari-95ab96252/)
 - **Portfolio:** [my Portfolio Link](https://ansari-katib.github.io/Portfolio/)
+- **Twitter:** [my twitter Link](https://x.com/KatibAnsari3)
 
 ### Thank you for visiting my GitHub profile! Feel free to explore my projects, and reach out if you'd like to collaborate. 😊
