@@ -7,7 +7,7 @@
 ### 🌟 About Me
 - 🎓 Pursuing a BSc in Computer Science
 - 💻 Currently learning and building projects in JavaScript, React, Node.js, Express, and MongoDB
-- ✈️ Aspiring to become a **pilot in the Indian Air Force** and a **successful software engineer**
+- 💻 Focusing on mastering the **full-stack** technologies
 - 🎯 Goal: Secure my first internship in software development and make an impactful start to my career
 
 ---
