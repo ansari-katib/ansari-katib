@@ -12,13 +12,16 @@
 
 ---
 
-### 💼 Skills
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, Linux, Mongoose, RESTful APIs
-- **Other Interests:** GSAP animations, CSS animations, hover effects, and learning about 5G technology
+## 💼 Skills
 
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Node.js, Express, RESTful APIs
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, GitHub, Linux
+
+## 🎨 Personal Interests
+
+- Basic pencil drawings
 ---
 
 ### 📈 Projects
