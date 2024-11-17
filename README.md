@@ -8,7 +8,7 @@
 - 🎓 Pursuing a BSc in Computer Science
 - 💻 Currently learning and building projects in JavaScript, React, Node.js, Express, and MongoDB
 - 💻 Focusing on mastering the **full-stack** technologies
-- 🎯 Goal: Secure my first internship in software development and make an impactful start to my career
+- 🎯 Goal: Become a skilled Software Engineer, contribute to innovative projects, and continuously grow in the tech industry to make a meaningful impact.
 
 ---
 
@@ -27,8 +27,8 @@
 ### 📈 Projects
 I've worked on a variety of projects, including:
 - **E-Commerce App:** A fast food buying website built with the MERN stack, featuring authentication and data handling.
-- **Frontend Websites:** Custom landing pages for Netflix and Amazon, built with HTML and CSS, showcasing my front-end skills.
 - **Tour and Travel Website:** A frontend React project focused on dynamic components and user-friendly UI.
+- **Frontend Websites:** Custom landing pages for Netflix and Amazon, built with HTML and CSS, showcasing my front-end skills.
 
 Check out my repositories to see more of my work!
 
