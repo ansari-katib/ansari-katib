@@ -14,7 +14,7 @@
 
 ## 💼 Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express, RESTful APIs
 - **Database:** MongoDB, Mongoose
 - **Tools:** Git, GitHub, Linux
