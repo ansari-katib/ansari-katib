@@ -41,7 +41,7 @@ Check out my repositories to see more of my work!
 
 ### 🤝 Let's Connect
 - **LinkedIn:** [my LinkedIn Profile](https://www.linkedin.com/in/katib-ansari-95ab96252/)
-- **Portfolio:** [my Portfolio Link](https://ansari-katib.github.io/Portfolio/)
+- **Portfolio:** [my Portfolio Link](https://katib-portfolio.netlify.app/)
 - **Twitter:** [my twitter Link](https://x.com/KatibAnsari3)
 - **My Gmail:** - ansarikatib647@gmail.com
 
