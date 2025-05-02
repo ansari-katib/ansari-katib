@@ -23,8 +23,7 @@
 ## 🎨 Personal Interests
 
 - Basic pencil drawings
-- **Hiking** – Exploring nature and hiking to recharge and gain new perspectives.
-
+- **Hiking** – Exploring nature and hiking
 ---
 
 ### 📈 Projects
