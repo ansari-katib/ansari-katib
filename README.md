@@ -1,11 +1,13 @@
 # Hi there, I'm Kaitb Ansari! 👋
 
-### Welcome to my GitHub profile! I'm a passionate **Computer Science student** with skills in web development, focusing on the **MERN stack**. I'm driven by curiosity and a desire to solve problems through code, and I'm continuously working to improve my skills and learn new technologies.
+### Welcome to my GitHub profile! I'm a passionate Computer Science graduate skilled in web development with a focus on the MERN stack. Driven by curiosity and a desire to solve problems through code,
+### I continuously improve my skills and learn new technologies.
+
 
 ---
 
 ### 🌟 About Me
-- 🎓 Pursuing a BSc in Computer Science
+- 🎓 Completed a Bachelor's degree in Computer Science (BSc)
 - 💻 Currently learning and building projects in JavaScript, React, Node.js, Express, and MongoDB
 - 💻 Focusing on mastering the **full-stack** technologies
 - 🎯 Goal: Become a skilled Software Engineer, contribute to innovative projects, and continuously grow in the tech industry to make a meaningful impact.
@@ -15,16 +17,16 @@
 
 ## 💼 Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap , shadeCN
 - **Backend:** Node.js, Express, RESTful APIs
 - **Database:** MongoDB, Mongoose
 - **Tools:** Git, GitHub, Linux
-
+- **DSA :** in java
 ## 🎨 Personal Interests
 
-- Basic pencil drawings
-- **Hiking** – Exploring nature and hiking
----
+- ✏️ Basic Pencil Drawings – Enjoy sketching simple illustrations as a creative hobby
+- 🥾 Hiking – Love exploring nature trails and outdoor adventures
+- 🏊‍♂️ Sports Activities – Swimming and running---
 
 ### 📈 Projects
 I've worked on a variety of projects, including:
