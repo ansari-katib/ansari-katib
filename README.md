@@ -1,4 +1,4 @@
-# Hi there, I'm Kaitb Ansari! 👋
+# Hi there, I'm Katib Ansari! 👋
 
 ### Welcome to my GitHub profile! I'm a passionate Computer Science graduate skilled in web development with a focus on the MERN stack. Driven by curiosity and a desire to solve problems through code,
 ### I continuously improve my skills and learn new technologies.
