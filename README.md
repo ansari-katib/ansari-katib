@@ -1,54 +1,147 @@
-# Hi there, I'm Katib Ansari! 👋
+<!-- Header Banner / Coding GIF -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNranNkY2puY3VpeWN0MmtuaTJ5YzhiNmo0dG81OG82dTQ0dnoxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="600"/>
+</p>
 
-### Welcome to my GitHub profile! I'm a passionate Computer Science graduate skilled in web development with a focus on the MERN stack. Driven by curiosity and a desire to solve problems through code,
-### I continuously improve my skills and learn new technologies.
+# 👋 Hi there, I'm **Katib Ansari!**
 
+### Welcome to my GitHub profile!  
+I'm a passionate **Computer Science graduate** with hands-on experience in **full-stack development**.  
+I love solving problems, creating scalable applications, and exploring new technologies.
 
 ---
 
-### 🌟 About Me
-- 🎓 Completed a Bachelor's degree in Computer Science (BSc)
-- 💻 Currently learning and building projects in JavaScript, React, Node.js, Express, and MongoDB
-- 💻 Focusing on mastering the **full-stack** technologies
-- 🎯 Goal: Become a skilled Software Engineer, contribute to innovative projects, and continuously grow in the tech industry to make a meaningful impact.
-- 💡 **Currently working on: Data Structures and Algorithms (DSA) in Java.** I'm diving deep into solving problems and preparing for technical interviews with Java-based solutions.
+<p align="center">
+
+<!-- HTML -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" />
+
+<!-- CSS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" />
+
+<!-- JavaScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" />
+
+<!-- TypeScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="70" />
+
+<!-- React -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70" />
+
+<!-- Node.js -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="70" />
+
+<!-- Express -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="70" />
+
+<!-- MongoDB -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="70" />
+
+<!-- Java -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70" />
+
+<!-- NestJS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="70" />
+
+<!-- Docker -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70" />
+
+</p>
+
+---
+
+## 🌟 About Me
+- 🎓 **BSc in Computer Science – Pune University**  
+- 💼 **1+ year experience** as a MERN Stack Developer across 3 startups  
+- 🚀 Skilled in **React, Next.js, Node.js, MongoDB, Express, NestJS, TypeScript**  
+- 🎯 Aiming to become a strong Software Engineer  
+- 💡 Currently learning: **DSA in Java** + **Clean backend architecture (NestJS)**  
 
 ---
 
 ## 💼 Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap , shadeCN
-- **Backend:** Node.js, Express, RESTful APIs
-- **Database:** MongoDB, Mongoose
-- **Tools:** Git, GitHub, Linux
-- **DSA :** in java
-## 🎨 Personal Interests
+### **Frontend**
+- HTML, CSS, JavaScript  
+- React.js  
+- Next.js  
+- Tailwind CSS  
+- daisyUI  
+- Accernity UI  
+- Bootstrap  
+- shadCN  
 
-- ✏️ Basic Pencil Drawings – Enjoy sketching simple illustrations as a creative hobby
-- 🥾 Hiking – Love exploring nature trails and outdoor adventures
-- 🏊‍♂️ Sports Activities – Swimming and running---
+### **Backend**
+- Node.js  
+- Express.js  
+- NestJS  
+- REST APIs  
 
-### 📈 Projects
-I've worked on a variety of projects, including:
-- **E-Commerce App:** A fast food buying website built with the MERN stack, featuring authentication and data handling.
-- **Tour and Travel Website:** A frontend React project focused on dynamic components and user-friendly UI.
-- **Frontend Websites:** Custom landing pages for Netflix and Amazon, built with HTML and CSS, showcasing my front-end skills.
-- **Chat Application:** A real-time chat application built with the **MERN stack** (MongoDB, Express, React, Node.js) and **Socket.IO** for real-time communication.
+### **Database**
+- MongoDB  
+- Mongoose  
 
-Check out my repositories to see more of my work!
+### **Tools**
+- Git & GitHub  
+- Linux  
+- VS Code  
+- Postman  
+- Thunder Client  
+- **Docker**
+
+### **Other**
+- DSA in Java  
+- Debugging & problem-solving  
+
+## 📈 Projects
+
+### 🛍️ **Clothing E-Commerce Store – MERN**
+A full-stack e-commerce app with authentication, product handling, and real-time cart updates.
+
+### 💬 **Stream Chat App – MERN + Stream API**
+Real-time chat app for connecting with people globally.
+
+### 🖥️ **Whipsaw Clone – Full-Stack**
+Beautiful landing page clone with responsive UI & animations.
+
+### 🌐 **Other Projects**
+- Netflix Landing Page (HTML/CSS)  
+- Amazon Landing Page  
+- Tour & Travel Website (React)  
 
 ---
 
-### 🔍 Currently Working On
-- Preparing for interviews, focusing on JavaScript fundamentals,
-- and **Data Structures and Algorithms (DSA) in Java** for better problem-solving skills.
+<!-- New Coding GIF -->
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlmOW53Y2xid200enpvcnllbzE4NDV5b3hmbDQzdWY3YmdwdWJkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d6Pvl5k9iAIzZpj47p/giphy.gif" width="200"/>
+  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFrajd4eGhxM3JiZGZ5NWVjdGN4dDYwcThvY2prZjFhYXpra3RxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U3n7kdZ4UebZ6LUIJF/giphy.gif" width="200"/>
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Btdnc3d2l4eDkwejlzcmRlZml1YW0zbTFvMGJoNG1jd2hwNXhnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wRjCvHV6uwCYvqgQoS/giphy.gif" width="200"/>
+  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJqOHRqYmN4czlzd2t4MmltZnh0a3I3c28zdmxobjNpbTJsdjYzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="200"/>
+
+  
+</p>
 
 ---
 
-### 🤝 Let's Connect
-- **LinkedIn:** [my LinkedIn Profile](https://www.linkedin.com/in/katib-ansari-95ab96252/)
-- **Portfolio:** [my Portfolio Link](https://ak-portfoli.netlify.app/)
-- **Twitter:** [my Twitter Link](https://x.com/KatibAnsari3)
-- **My Gmail:** ansarikatib647@gmail.com
+## 🔍 Currently Working On
+- JavaScript deep concepts  
+- NestJS backend structure  
+- DSA in Java  
+- Interview preparation  
 
-### Thank you for visiting my GitHub profile! Feel free to explore my projects, and reach out if you'd like to collaborate. 😊
+---
+
+## 🤝 Let’s Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/katib-ansari-95ab96252/  
+- **Portfolio:** https://my-portfolio-mxmg.onrender.com/  
+- **Twitter (X):** https://x.com/KatibAnsari3  
+- **Email:** **ansarikatib647@gmail.com**
+
+---
+
+### 🙌 Thanks for visiting!  
+Feel free to explore my repos and collaborate. 😊
