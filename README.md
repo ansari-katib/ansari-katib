@@ -1,6 +1,6 @@
 <!-- Header Banner / Coding GIF -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNranNkY2puY3VpeWN0MmtuaTJ5YzhiNmo0dG81OG82dTQ0dnoxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNranNkY2puY3VpeWN0MmtuaTJ5YzhiNmo0dG81OG82dTQ0dnoxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400"/>
 </p>
 
 # 👋 Hi there, I'm **Katib Ansari!**
