@@ -143,5 +143,10 @@ Beautiful landing page clone with responsive UI & animations.
 
 ---
 
+<p align="center"> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ansari-katib&show_icons=true&theme=tokyonight" height="180" />  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansari-katib&layout=compact&theme=dark" height="180" /> 
+</p>
+
 ### 🙌 Thanks for visiting!  
 Feel free to explore my repos and collaborate. 😊
