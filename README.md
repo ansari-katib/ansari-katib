@@ -5,148 +5,191 @@
 
 # 👋 Hi there, I'm **Katib Ansari!**
 
-### Welcome to my GitHub profile!  
-I'm a passionate **Computer Science graduate** with hands-on experience in **full-stack development**.  
-I love solving problems, creating scalable applications, and exploring new technologies.
+### Welcome to my GitHub profile!
+I'm a passionate **Salesforce Developer** focused on building scalable CRM solutions using the Salesforce Platform. I enjoy solving business problems through automation, custom development, and Lightning Web Components.
 
 ---
 
 <p align="center">
 
-<!-- HTML -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" />
+<!-- Salesforce -->
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 
-<!-- CSS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" />
+<!-- Apex -->
+<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
 
-<!-- JavaScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" />
+<!-- Lightning Web Components -->
+<img src="https://img.shields.io/badge/LWC-Lightning%20Web%20Components-00A1E0?style=for-the-badge" />
 
-<!-- TypeScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="70" />
+<!-- Flow -->
+<img src="https://img.shields.io/badge/Salesforce%20Flow-Automation-00A1E0?style=for-the-badge" />
 
-<!-- React -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70" />
+<!-- Apex Trigger -->
+<img src="https://img.shields.io/badge/Apex-Trigger-0176D3?style=for-the-badge" />
 
-<!-- Node.js -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="70" />
+<!-- SOQL -->
+<img src="https://img.shields.io/badge/SOQL-Query%20Language-1798C1?style=for-the-badge" />
 
-<!-- Express -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="70" />
+<!-- CRM -->
+<img src="https://img.shields.io/badge/CRM-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 
-<!-- MongoDB -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="70" />
+</p>
 
-<!-- Java -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70" />
+---
 
-<!-- NestJS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="70" />
+<p align="center">
 
-<!-- Docker -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="65" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="65" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="65" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="65" />
 
 </p>
 
 ---
 
 ## 🌟 About Me
-- 🎓 **BSc in Computer Science – Pune University**  
-- 💼 **1+ year experience** as a MERN Stack Developer across 3 startups  
-- 🚀 Skilled in **React, Next.js, Node.js, MongoDB, Express, NestJS, TypeScript**  
-- 🎯 Aiming to become a strong Software Engineer  
-- 💡 Currently learning: **DSA in Java** + **Clean backend architecture (NestJS)**  
+
+- ☁️ Salesforce Developer
+- 🎓 Computer Science Graduate
+- 🚀 Passionate about CRM Development & Cloud Technologies
+- 💻 Skilled in Apex, Lightning Web Components (LWC), SOQL, Salesforce Flows, Triggers & Integrations
+- 🌱 Currently learning Advanced Apex, Platform Events & Integration Patterns
+- 🎯 Seeking Entry-Level Salesforce Developer opportunities
 
 ---
 
 ## 💼 Skills
 
-### **Frontend**
-- HTML, CSS, JavaScript  
-- React.js  
-- Next.js  
-- Tailwind CSS  
-- daisyUI  
-- Accernity UI  
-- Bootstrap  
-- shadCN  
+### ☁️ Salesforce
 
-### **Backend**
-- Node.js  
-- Express.js  
-- NestJS  
-- REST APIs  
+- Apex
+- Lightning Web Components (LWC)
+- SOQL
+- SOSL
+- Apex Triggers
+- Salesforce Flows
+- Batch Apex
+- Queueable Apex
+- Future Methods
+- Scheduled Apex
+- Lightning Data Service (LDS)
+- UI Record API
+- Platform Events
+- REST API Integration
+- Custom Objects
+- Validation Rules
+- Formula Fields
+- Approval Processes
 
-### **Database**
-- MongoDB  
-- Mongoose  
+### 🔒 Security
 
-### **Tools**
-- Git & GitHub  
-- Linux  
-- VS Code  
-- Postman  
-- Thunder Client  
-- **Docker**
+- Profiles
+- Permission Sets
+- Object-Level Security
+- Field-Level Security
+- Record-Level Security
+- Sharing Rules
 
-### **Other**
-- DSA in Java  
-- Debugging & problem-solving  
+### 💻 Programming
 
-## 📈 Projects
+- Java
+- JavaScript
+- HTML
+- CSS
 
-### 🛍️ **Clothing E-Commerce Store – MERN**
-A full-stack e-commerce app with authentication, product handling, and real-time cart updates.
+### 🛠️ Tools
 
-### 💬 **Stream Chat App – MERN + Stream API**
-Real-time chat app for connecting with people globally.
+- Salesforce CLI
+- VS Code
+- Developer Console
+- Workbench
+- Git & GitHub
+- Postman
+- Data Loader
 
-### 🖥️ **Whipsaw Clone – Full-Stack**
-Beautiful landing page clone with responsive UI & animations.
+### 🚀 Other
 
-### 🌐 **Other Projects**
-- Netflix Landing Page (HTML/CSS)  
-- Amazon Landing Page  
-- Tour & Travel Website (React)  
+- REST APIs
+- Debugging
+- Object-Oriented Programming
+- Problem Solving
 
 ---
 
-<!-- New Coding GIF -->
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlmOW53Y2xid200enpvcnllbzE4NDV5b3hmbDQzdWY3YmdwdWJkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d6Pvl5k9iAIzZpj47p/giphy.gif" width="200"/>
-  
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFrajd4eGhxM3JiZGZ5NWVjdGN4dDYwcThvY2prZjFhYXpra3RxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U3n7kdZ4UebZ6LUIJF/giphy.gif" width="200"/>
-  
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Btdnc3d2l4eDkwejlzcmRlZml1YW0zbTFvMGJoNG1jd2hwNXhnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wRjCvHV6uwCYvqgQoS/giphy.gif" width="200"/>
-  
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJqOHRqYmN4czlzd2t4MmltZnh0a3I3c28zdmxobjNpbTJsdjYzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="200"/>
+<!--
 
-  
+## 📈 Projects
+
+### ⚡ Apex Trigger Scenarios
+
+Implemented multiple real-world business scenarios using bulkified Apex Triggers following Salesforce best practices.
+
+### 💻 Lightning Web Components (LWC)
+
+Developed reusable Lightning Web Components using Wire Adapters, Imperative Apex, Lightning Data Service, UI Record API, and component communication.
+
+### 🔄 Salesforce Automation
+
+Built automation solutions using Record-Triggered Flows, Validation Rules, Formula Fields, and Approval Processes.
+
+### 🌐 Salesforce Integration
+
+Integrated Salesforce with external systems using REST APIs, HTTP Callouts, JSON Parsing, and Named Credentials.
+
+---
+
+-->
+
+<!-- Coding GIFs -->
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlmOW53Y2xid200enpvcnllbzE4NDV5b3hmbDQzdWY3YmdwdWJkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d6Pvl5k9iAIzZpj47p/giphy.gif" width="150"/>
+
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk0YTliczhuYXc0aGczMGJpb2E2Y2o2YTExdXN0ZzZmbHF6MWFwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/72q7yKYoEyGzAGbGFl/giphy.gif" width="300"/>
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQxNmh2Zmo2NDdkZ3EzbGFmdXJ4NXp4MmdpY2VicjJlbDZndnUwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lvTxJq3JgkpwGigMWD/giphy.gif" width="300"/>
+
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJqOHRqYmN4czlzd2t4MmltZnh0a3I3c28zdmxobjNpbTJsdjYzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="150"/>
 </p>
 
 ---
 
 ## 🔍 Currently Working On
-- JavaScript deep concepts  
-- NestJS backend structure  
-- DSA in Java  
-- Interview preparation  
+
+- Advanced Lightning Web Components (LWC)
+- Apex Design Patterns
+- Salesforce Integrations
+- Platform Events
+- Salesforce Best Practices
+- Salesforce Developer Interview Preparation
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/katib-ansari-95ab96252/  
-- **Portfolio:** https://my-portfolio-mxmg.onrender.com/  
-- **Twitter (X):** https://x.com/KatibAnsari3  
+- **LinkedIn:** https://www.linkedin.com/in/katib-ansari-95ab96252/
+<!-- - **Portfolio:** https://my-portfolio-mxmg.onrender.com/ -->
+<!-- - **Twitter (X):** https://x.com/KatibAnsari3 -->
 - **Email:** **ansarikatib647@gmail.com**
 
 ---
 
-<p align="center"> 
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ansari-katib&show_icons=true&theme=tokyonight" height="180" />  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansari-katib&layout=compact&theme=dark" height="180" /> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansari-katib&show_icons=true&theme=tokyonight" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansari-katib&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-### 🙌 Thanks for visiting!  
-Feel free to explore my repos and collaborate. 😊
+---
+
+### 🙌 Thanks for visiting!
+
+⭐ Feel free to explore my Salesforce projects, contribute, and connect with me. I'm always excited to learn, collaborate, and build impactful solutions on the Salesforce Platform.
+```
