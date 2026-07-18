@@ -152,9 +152,9 @@ Integrated Salesforce with external systems using REST APIs, HTTP Callouts, JSON
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlmOW53Y2xid200enpvcnllbzE4NDV5b3hmbDQzdWY3YmdwdWJkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d6Pvl5k9iAIzZpj47p/giphy.gif" width="150"/>
 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk0YTliczhuYXc0aGczMGJpb2E2Y2o2YTExdXN0ZzZmbHF6MWFwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/72q7yKYoEyGzAGbGFl/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk0YTliczhuYXc0aGczMGJpb2E2Y2o2YTExdXN0ZzZmbHF6MWFwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/72q7yKYoEyGzAGbGFl/giphy.gif" width="250"/>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQxNmh2Zmo2NDdkZ3EzbGFmdXJ4NXp4MmdpY2VicjJlbDZndnUwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lvTxJq3JgkpwGigMWD/giphy.gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQxNmh2Zmo2NDdkZ3EzbGFmdXJ4NXp4MmdpY2VicjJlbDZndnUwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lvTxJq3JgkpwGigMWD/giphy.gif" width="250"/>
 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJqOHRqYmN4czlzd2t4MmltZnh0a3I3c28zdmxobjNpbTJsdjYzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="150"/>
 </p>
